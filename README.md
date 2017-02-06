@@ -1,7 +1,7 @@
 # CV - Computer Vision Projects
-#Python #OpenCV #ORB #FLANN #CLASSIFIER
+# #Python #OpenCV #ORB #FLANN #CLASSIFIER
 
-Project 3: Detecting a car and calculating the center of it.
+# Project 3: Detecting a car and calculating the center of it.
 
 Using KeyPoint object from OpenCV, Calculate the center, angle, vectors and module with the center of the image and the KeyPoint.
 
@@ -16,7 +16,7 @@ We train and test this object with the purpose of learn and get a better idea of
 Also, we use a classifier from the OpenCV to detect cars. This is a generic classifier that can be improve in many ways but it helpful to get the job done faster and focus in other concepts.
 
 
-Project 4: Detecting a tag or plate in a car ROI and reading the letters/digits.
+# Project 4: Detecting a tag or plate in a car ROI and reading the letters/digits.
 
 First, we use a OpenCV classifier for detecting cars. We change to a binary image to detect better letters and numbers with the function cv2.threshold. With the cv2.findContours function we look for areas (letters and digits) between 4 and 6 in a tag, these areas have to be very close and at the same height. We save every one of this areas in an array "plate".
 
