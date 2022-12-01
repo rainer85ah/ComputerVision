@@ -1,4 +1,4 @@
-# CV - Computer Vision Projects
+# Computer Vision Projects
 # #Python #OpenCV #ORB #FLANN #CLASSIFIER
 
 # Project 3: Detecting a car and calculating the center of it.
